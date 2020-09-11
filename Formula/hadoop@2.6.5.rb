@@ -1,4 +1,4 @@
-class Hadoop < Formula
+class HadoopAT265 < Formula
   desc "Framework for distributed processing of large data sets"
   homepage "https://hadoop.apache.org/"
   #  url "https://www.apache.org/dyn/closer.lua?path=hadoop/common/hadoop-3.2.1/hadoop-3.2.1.tar.gz"
